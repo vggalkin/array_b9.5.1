@@ -9,8 +9,3 @@ function print_array(array) {
     }
 }
 
-let arr = new Array("One", "Two", "Three");
-print_array(arr)
-
-let str = 'Monday, Tusday, Wednesday'
-string_to_array(str)
