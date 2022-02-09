@@ -1,0 +1,19 @@
+{
+  "name": "array_b9.5.1",
+  "version": "1.0.0",
+  "description": "Exercize B9.5.1",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vggalkin/array_b9.5.1.git"
+  },
+  "author": "Vladimir Galkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vggalkin/array_b9.5.1/issues"
+  },
+  "homepage": "https://github.com/vggalkin/array_b9.5.1#readme"
+}
